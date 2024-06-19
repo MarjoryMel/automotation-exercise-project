@@ -42,11 +42,13 @@ Follow the steps below to set up and run the project:
 
 ## Dependencies
 
-- `cypress`: ^13.11.0
+- `cypress`: 13.11.0
 
 ## Author
 
-Marjory Mel Ferreira Ferro Lemos
+- **Name:** Marjory Mel Ferreira Ferro Lemos
+- **Email:** marjorymel48@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marjory-mel-ferreira-ferro-lemos-68b969208)
 
 
 
