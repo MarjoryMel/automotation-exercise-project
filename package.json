@@ -1,7 +1,7 @@
 {
   "name": "automotation-exercise-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is designed to automate tests for the website [Automation Exercise](https://automationexercise.com/)",
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.11.0"
-  }
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0"
+  },
+  "keywords": []
 }
