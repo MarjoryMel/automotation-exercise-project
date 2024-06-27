@@ -13,31 +13,21 @@ Before running the project, ensure that you have the following installed on your
 
 Follow the steps below to set up and run the project:
 
-1. **Clone the repository** (if applicable):
-    ```sh
-    git clone <repository-url>
-    cd automotation-exercise-project
-    ```
-
-2. **Install project dependencies**:
+1. **Install project dependencies**:
     ```sh
     npm install
     ```
 
-3. **Open Cypress**:
+2. **Open Cypress**:
     ```sh
     npm run cy:open
     ```
 
-4. **Run Cypress tests**:
+3. **Run Cypress tests in headless mode**:
     ```sh
     npm test
     ```
 
-## Project Structure
-
-- 
-- 
 
 ## Scripts
 
@@ -46,11 +36,13 @@ Follow the steps below to set up and run the project:
 
 ## Dependencies
 
-- `cypress`: ^13.11.0
+- `cypress`: 13.11.0
 
 ## Author
 
-Marjory Mel Ferreira Ferro Lemos
+- **Name:** Marjory Mel Ferreira Ferro Lemos
+- **Email:** marjorymel48@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marjory-mel-ferreira-ferro-lemos-68b969208)
 
 
 
